@@ -1,0 +1,6 @@
+0.clone the repo(we will do only once)
+1.pull
+2.make changes
+3.staging
+4.commit
+5.push
